@@ -1,5 +1,3 @@
 # CSW---SIN1
-Estudos xD
-
-
-Estudos primeiro periodo facul
+Welcome!
+In here you will find my first steps in programming
