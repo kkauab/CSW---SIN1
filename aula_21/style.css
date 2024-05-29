@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background: rgb(15,109,131);
+    background: linear-gradient(90deg, rgba(15,109,131,1) 35%, rgba(0,212,255,1) 100%);
+    
+}
+ 
+#centralize{
+    max-width: 450px;
+    height: 200px;
+    background-color:  linear-gradient(90deg, rgba(15,109,131,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 12px;
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.534);
+    display: block;
+    margin: auto;
+    position: relative;
+}
+
+#resposta{
+    background-color: rgb(61, 173, 207);
+    width: 400px;
+    height: 100px;
+    border-radius: 10%;
+    border: 1px solid cyan;
+}
